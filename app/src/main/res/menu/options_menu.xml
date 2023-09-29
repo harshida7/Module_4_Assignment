@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/call"
+        android:title="Call"/>
+
+    <item
+        android:id="@+id/share"
+        android:title="Share"/>
+
+    <item
+        android:id="@+id/link"
+        android:title="Link"/>
+
+    <item
+        android:id="@+id/search"
+        android:icon="@drawable/loupe"
+        app:showAsAction="ifRoom"
+        android:title="Search"
+        app:actionViewClass="android.widget.SearchView"/>
+
+    <item
+        android:id="@+id/camera"
+        android:icon="@drawable/camera"
+        app:showAsAction="ifRoom"
+        android:title="Camera" />
+
+
+
+</menu>

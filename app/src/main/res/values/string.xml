@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="person">
+        <item>Harshida</item>
+        <item>Milan</item>
+        <item>Deep</item>
+    </string-array>
+
+    <string-array name="city">
+        <item>Rajkot</item>
+        <item>Ahemdabad</item>
+        <item>Baroda</item>
+    </string-array>
+
+    <string-array name="bird">
+        <item>Peacock</item>
+        <item>Crow</item>
+        <item>Sparrow</item>
+    </string-array>
+    <string-array name="animal">
+        <item>Tiger</item>
+        <item>Lion</item>
+        <item>Elephant</item>
+    </string-array>
+
+    <string-array name="sports">
+        <item>Table Tannis</item>
+        <item>Badminton</item>
+        <item>Volleyball</item>
+    </string-array>
+</resources>
